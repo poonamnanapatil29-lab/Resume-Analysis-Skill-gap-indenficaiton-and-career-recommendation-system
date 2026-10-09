@@ -1,0 +1,2 @@
+# Resume-Analysis-Skill-gap-indenficaiton-and-career-recommendation-system
+EduCareer is a platform for resume analysis, skill gap identification, and career recommendations. Using NLP, it extracts resume skills, identifies missing skills, and suggests suitable career paths. The Teacher Portal manages assignments, marks, student details, and announcements, supporting career guidance and academic management.
